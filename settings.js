@@ -7,23 +7,34 @@ global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
 global.antispam = false//auto kick spammer (true to on, false to off)
 //===============SETTING MENU==================\\
-global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
-global.ig = 'justt.patron'
-global.yt = 'Itzpatron1'
-global.ttowner = 'justt.patron'
-global.ownername = 'PATRON 🚹' 
-global.owner = ['2348133729715'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
-global.ownernomer = '2348133729715'
-global.socialm = 'GitHub: Itzpatron'
-global.location = 'Nigeria' 
-//========================setting Payment=====================\\
-global.nodana = '8133729715' // IT'S BLANK IF IT'S NOT EXISTING
-global.nogopay = '8133729715' // IT'S BLANK IF IT'S NOT EXISTING 
-global.noovo = '8133729715' // IT'S BLANK IF IT'S NOT EXISTING
-//==================setting Payment Name===========================\\
-global.andana = 'FADARE' // IT'S BLANK IF IT'S NOT EXISTING
-global.angopay = 'FADARE' // IT'S BLANK IF IT'S NOT EXISTING
-global.anovo = 'FADARE' // IT'S BLANK IF IT'S NOT EXISTING
+var _0x6e9f5f = _0x440c;
+function _0x440c(_0xff7e8a, _0x55b825) {
+  var _0x53568b = _0x5356();
+  return _0x440c = function (_0x440c89, _0x6c964e) {
+    _0x440c89 = _0x440c89 - 395;
+    var _0x4b10d4 = _0x53568b[_0x440c89];
+    return _0x4b10d4;
+  }, _0x440c(_0xff7e8a, _0x55b825);
+}
+(function (_0x5f11d9, _0x4185c9) {
+  var _0x2f3c55 = _0x440c, _0x18de9f = _0x5f11d9();
+  while (true) {
+    try {
+      var _0x2ac68b = parseInt(_0x2f3c55(405)) / 1 * (parseInt(_0x2f3c55(401)) / 2) + parseInt(_0x2f3c55(411)) / 3 + -parseInt(_0x2f3c55(409)) / 4 + -parseInt(_0x2f3c55(404)) / 5 * (-parseInt(_0x2f3c55(397)) / 6) + parseInt(_0x2f3c55(399)) / 7 + parseInt(_0x2f3c55(403)) / 8 + -parseInt(_0x2f3c55(412)) / 9;
+      if (_0x2ac68b === _0x4185c9) break; else _0x18de9f.push(_0x18de9f.shift());
+    } catch (_0x4efa13) {
+      _0x18de9f.push(_0x18de9f.shift());
+    }
+  }
+}(_0x5356, 611392), global[_0x6e9f5f(400)] = fs[_0x6e9f5f(406)](_0x6e9f5f(414)), global.ig = _0x6e9f5f(408), global.yt = _0x6e9f5f(398), global.ttowner = "justt.patron", global[_0x6e9f5f(402)] = _0x6e9f5f(396), global[_0x6e9f5f(407)] = [_0x6e9f5f(395)], global[_0x6e9f5f(410)] = _0x6e9f5f(395), global.socialm = "GitHub: Itzpatron", global.location = _0x6e9f5f(413));
+function _0x5356() {
+  var _0x2d608b = ["2TiYyRi", "ownername", "4848248JOyFIO", "10285nogbjK", "24551hmyaFj", "readFileSync", "owner", "justt.patron", "4122452LsfHwQ", "ownernomer", "3122538rKjRfI", "13069737fNnLij", "Nigeria", "./data/image/thumb.jpg", "2348133729715", "PATRON 🚹", "996yvEvRn", "Itzpatron1", "7569156ZVpYsb", "thumbnail"];
+  _0x5356 = function () {
+    return _0x2d608b;
+  };
+  return _0x5356();
+}
+
 //==================setting bot===========================\\
 var _0x1bcf00 = _0xe1c6;
 function _0xe1c6(_0x488713, _0x4b148) {
@@ -54,7 +65,7 @@ function _0x8e09() {
 }(_0x8e09, 105820), global[_0x1bcf00(146)] = _0x1bcf00(131), global[_0x1bcf00(137)] = _0x1bcf00(150), global[_0x1bcf00(127)] = "2348133729715", global.ownername = _0x1bcf00(138), global[_0x1bcf00(149)] = [_0x1bcf00(129)], global.ownerweb = "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", global[_0x1bcf00(153)] = _0x1bcf00(147), global[_0x1bcf00(152)] = _0x1bcf00(147), global.saluran = _0x1bcf00(147), global.themeemoji = "🚹", global.wm = "ᴘᴀᴛʀᴏɴ-ᴍᴅ", global[_0x1bcf00(145)] = _0x1bcf00(136), global[_0x1bcf00(132)] = _0x1bcf00(128), global[_0x1bcf00(141)] = _0x1bcf00(134))
 global.creator = "2348133729715@s.whatsapp.net"
 global.bankname = "MONIEPOINT"
-global.banknumber = "8133729715"
+global.banknumber = "5518447058"
 global.bankowner = "FADARE"
 //======================== CPANEL COMMAND ===========================\\
 global.domain = '-' // Fill in your domain, don't put a / at the end of the link

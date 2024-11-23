@@ -16,7 +16,7 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 WANT TO USE BOT HOSTING? DOWNLOAD THIS
 
   
-<a href='https://www.mediafire.com/file/tzb429ttp2w28or/PATRON-MD-master+(1).zip/file' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Bot Hosting-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://devuploads.com/rfpmqslkdp2i' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Bot Hosting-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 # ```Bot Info```

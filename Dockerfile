@@ -1,25 +1,19 @@
-FROM node:20
+FROM node:lts-buster
 
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  rm -rf /var/lib/apt/lists/*
 
-USER node
+COPY package.json .
 
+RUN npm install && npm install -g qrcode-terminal pm2
 
-RUN git clone https://github.com/patronffx/PATRON-MD.git home/node/blue
+COPY . .
 
+EXPOSE 3000
 
-WORKDIR /home/node/blue
-
-
-RUN chmod -R 777 /home/node/blue/
-
-
-RUN yarn install && yarn add http
-
-
-COPY server.js .
-
-
-COPY start.sh .
-
-
-CMD ["bash","start.sh"]
+CMD ["npm", "start"]
